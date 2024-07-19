@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.AssemblyInfo.cs
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\bin\Debug\net6.0\04_constants_lesson.exe
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\bin\Debug\net6.0\04_constants_lesson.deps.json
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\bin\Debug\net6.0\04_constants_lesson.runtimeconfig.json
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\bin\Debug\net6.0\04_constants_lesson.dll
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\bin\Debug\net6.0\04_constants_lesson.pdb
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.dll
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\refint\04_constants_lesson.dll
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.pdb
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\04_constants_lesson.genruntimeconfig.cache
+C:\Users\asus\source\repos\04_constants_lesson\04_constants_lesson\obj\Debug\net6.0\ref\04_constants_lesson.dll
