@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\05_typecasting_lesson\05_typecasting_lesson\obj\Debug\net6.0\05_typecasting_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\05_typecasting_lesson\05_typecasting_lesson\obj\Debug\net6.0\05_typecasting_lesson.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\05_typecasting_lesson\05_typecasting_lesson\obj\Debug\net6.0\05_typecasting_lesson.AssemblyInfo.cs
+C:\Users\asus\source\repos\05_typecasting_lesson\05_typecasting_lesson\obj\Debug\net6.0\05_typecasting_lesson.csproj.CoreCompileInputs.cache
