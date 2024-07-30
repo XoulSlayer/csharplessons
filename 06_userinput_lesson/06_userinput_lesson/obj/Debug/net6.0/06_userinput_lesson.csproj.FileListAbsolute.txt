@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.AssemblyInfo.cs
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\bin\Debug\net6.0\06_userinput_lesson.exe
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\bin\Debug\net6.0\06_userinput_lesson.deps.json
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\bin\Debug\net6.0\06_userinput_lesson.runtimeconfig.json
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\bin\Debug\net6.0\06_userinput_lesson.dll
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\bin\Debug\net6.0\06_userinput_lesson.pdb
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.dll
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\refint\06_userinput_lesson.dll
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.pdb
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\06_userinput_lesson.genruntimeconfig.cache
+C:\Users\asus\source\repos\06_userinput_lesson\06_userinput_lesson\obj\Debug\net6.0\ref\06_userinput_lesson.dll
